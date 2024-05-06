@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "GoArchiver/cmd"
 
 func main() {
-	fmt.Println("test")
+	cmd.Execute()
 }
